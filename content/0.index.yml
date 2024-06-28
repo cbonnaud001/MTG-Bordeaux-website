@@ -135,10 +135,11 @@ testimonials:
           src: https://i.pravatar.cc/120?img=9
           loading: lazy
 cta:
-  title: Get started today
-  description: Nisi mollit id aliquip sunt est laborum sit sit.
+  title: Devenez speaker
+  description: Proposez un sujet pour un prochain meetup !
   links:
-    - label: Buy now
+    - label: Postulez
       size: xl
       color: black
-      to: /pricing
+      to: https://sessionize.com/mtg/
+      target: _blank
